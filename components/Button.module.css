@@ -1,0 +1,46 @@
+.primary {
+    width: 140px;
+    height: 60px;
+    background-color: #812929;
+    color: white;
+    font-size: 24px;
+    border: 1px solid #812929;
+    cursor: pointer;
+    border-radius: 15px;
+    width: 200px;
+  }
+  
+  .primary:hover {
+    background-color: #95051d;
+  }
+  
+  .secondary {
+    width: 140px;
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    font-size: 24px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    font-weight: lighter;
+    
+  }
+  
+  .secondary:hover {
+    text-decoration: underline;
+  }
+
+  .tertiary {
+    width: 140px;
+    height: 60px;
+    background-color: transparent;
+    color: white;
+    font-size: 24px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    
+  }
+  
+  .tertiary:hover {
+    text-decoration: underline;
+  }
